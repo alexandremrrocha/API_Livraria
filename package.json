@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "API usando o Express e o banco de dados MongoDB",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "dev": "nodemon server.js"
   },
@@ -11,5 +12,8 @@
   "license": "ISC",
   "devDependencies": {
     "nodemon": "^2.0.19"
+  },
+  "dependencies": {
+    "express": "^4.18.1"
   }
 }
