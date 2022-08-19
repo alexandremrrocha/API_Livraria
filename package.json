@@ -1,0 +1,15 @@
+{
+  "name": "NodeJs_API_Express_MongoDB",
+  "version": "1.0.0",
+  "description": "API usando o Express e o banco de dados MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "Alexandre Miranda Rezende Rocha",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
