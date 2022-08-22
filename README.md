@@ -25,7 +25,8 @@ Uma API CRUD para uma livraria, projeto em andamento...
 ```bash
   npm install
 ```
-- Configure o dbConnect para o seu banco de dados especifico
+
+- Configure um banco de dados de sua preferencia
 
 - Inicie o servidor
 
