@@ -1,4 +1,3 @@
-
 # API Livraria
 
 Uma API CRUD para uma livraria, projeto em andamento...
@@ -7,6 +6,13 @@ Uma API CRUD para uma livraria, projeto em andamento...
 
 - Node
 - Express
+- Mongoose
+
+## Aprendizados
+
+- NodeJS
+- Express
+- MongoDB
 
 ## Rodando localmente
 
@@ -19,6 +25,7 @@ Uma API CRUD para uma livraria, projeto em andamento...
 ```bash
   npm install
 ```
+- Configure o dbConnect para o seu banco de dados especifico
 
 - Inicie o servidor
 
