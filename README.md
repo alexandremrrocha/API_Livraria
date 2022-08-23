@@ -1,6 +1,6 @@
 # API Livraria
 
-Uma API CRUD para uma livraria, projeto em andamento...
+Uma API CRUD para uma livraria, co
 
 ## Stack utilizada
 
