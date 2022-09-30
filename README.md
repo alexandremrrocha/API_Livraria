@@ -1,6 +1,6 @@
 # API Livraria
 
-Uma API CRUD para uma livraria, co
+Uma API CRUD para uma livraria, utilizando banco de dados NoSQL
 
 ## Stack utilizada
 
